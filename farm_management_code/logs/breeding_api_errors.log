@@ -1,0 +1,285 @@
+[24-Aug-2025 20:40:27 Europe/Berlin] === NEW REQUEST ===
+[24-Aug-2025 20:40:27 Europe/Berlin] Request Method: GET
+[24-Aug-2025 20:40:27 Europe/Berlin] POST Data: Array
+(
+)
+
+[24-Aug-2025 20:41:36 Europe/Berlin] === NEW REQUEST ===
+[24-Aug-2025 20:41:36 Europe/Berlin] Request Method: POST
+[24-Aug-2025 20:41:36 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-15
+    [confirmed_date] => 
+    [due_date] => 
+    [dam_id] => 
+    [birth_date] => 
+    [offspring_count] => 
+    [survival_status] => 
+    [notes] => 
+)
+
+[24-Aug-2025 20:48:40 Europe/Berlin] === NEW REQUEST ===
+[24-Aug-2025 20:48:40 Europe/Berlin] Request Method: POST
+[24-Aug-2025 20:48:40 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-15
+    [confirmed_date] => 
+    [due_date] => 
+    [dam_id] => 
+    [birth_date] => 
+    [offspring_count] => 
+    [survival_status] => 
+    [notes] => 
+)
+
+[24-Aug-2025 20:48:52 Europe/Berlin] === NEW REQUEST ===
+[24-Aug-2025 20:48:52 Europe/Berlin] Request Method: POST
+[24-Aug-2025 20:48:52 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-15
+    [confirmed_date] => 
+    [due_date] => 
+    [dam_id] => 
+    [birth_date] => 
+    [offspring_count] => 
+    [survival_status] => 
+    [notes] => 
+)
+
+[24-Aug-2025 20:52:38 Europe/Berlin] === NEW REQUEST ===
+[24-Aug-2025 20:52:38 Europe/Berlin] Request Method: POST
+[24-Aug-2025 20:52:38 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-11
+    [confirmed_date] => 
+    [due_date] => 
+    [dam_id] => 
+    [birth_date] => 
+    [offspring_count] => 
+    [survival_status] => 
+    [notes] => 
+)
+
+[24-Aug-2025 21:08:19 Europe/Berlin] === NEW REQUEST ===
+[24-Aug-2025 21:08:19 Europe/Berlin] Request Method: POST
+[24-Aug-2025 21:08:19 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-28
+    [confirmed_date] => 
+    [due_date] => 
+    [dam_id] => 
+    [birth_date] => 
+    [offspring_count] => 
+    [survival_status] => 
+    [notes] => 
+)
+
+[25-Aug-2025 08:26:59 Europe/Berlin] === NEW REQUEST ===
+[25-Aug-2025 08:26:59 Europe/Berlin] Request Method: POST
+[25-Aug-2025 08:26:59 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-26
+    [confirmed_date] => 
+    [due_date] => 
+    [dam_id] => 
+    [birth_date] => 
+    [offspring_count] => 
+    [survival_status] => 
+    [notes] => aaaaaaaaaa
+)
+
+[25-Aug-2025 08:34:27 Europe/Berlin] === NEW REQUEST ===
+[25-Aug-2025 08:34:27 Europe/Berlin] Request Method: POST
+[25-Aug-2025 08:34:27 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 1
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-26
+    [notes] => success
+)
+
+[25-Aug-2025 08:35:25 Europe/Berlin] === NEW REQUEST ===
+[25-Aug-2025 08:35:25 Europe/Berlin] Request Method: POST
+[25-Aug-2025 08:35:25 Europe/Berlin] POST Data: Array
+(
+    [action] => create-pregnancy
+    [id] => 
+    [animal_id] => 1
+    [confirmed_date] => 2025-08-26
+    [due_date] => 2025-08-27
+    [notes] => sucess
+)
+
+[25-Aug-2025 08:36:16 Europe/Berlin] === NEW REQUEST ===
+[25-Aug-2025 08:36:16 Europe/Berlin] Request Method: POST
+[25-Aug-2025 08:36:16 Europe/Berlin] POST Data: Array
+(
+    [action] => create-birth
+    [id] => 
+    [dam_id] => 1
+    [birth_date] => 2025-08-26
+    [offspring_count] => 5
+    [survival_status] => all survived
+    [notes] => success she is a strong one 
+)
+
+[25-Aug-2025 08:36:40 Europe/Berlin] === NEW REQUEST ===
+[25-Aug-2025 08:36:40 Europe/Berlin] Request Method: POST
+[25-Aug-2025 08:36:40 Europe/Berlin] POST Data: Array
+(
+    [action] => edit-breeding
+    [id] => 12
+    [animal_id] => 1
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-26
+    [notes] => successful breeding
+)
+
+[25-Aug-2025 08:37:01 Europe/Berlin] === NEW REQUEST ===
+[25-Aug-2025 08:37:01 Europe/Berlin] Request Method: POST
+[25-Aug-2025 08:37:01 Europe/Berlin] POST Data: Array
+(
+    [action] => edit-pregnancy
+    [id] => 1
+    [animal_id] => 1
+    [confirmed_date] => 2025-08-26
+    [due_date] => 2025-08-30
+    [notes] => sucess
+)
+
+[25-Aug-2025 08:38:18 Europe/Berlin] === NEW REQUEST ===
+[25-Aug-2025 08:38:18 Europe/Berlin] Request Method: POST
+[25-Aug-2025 08:38:18 Europe/Berlin] POST Data: Array
+(
+    [action] => edit-birth
+    [id] => 1
+    [dam_id] => 1
+    [birth_date] => 2025-08-26
+    [offspring_count] => 5
+    [survival_status] => all survived!
+    [notes] => successful giving birth all survive she is a strong one 
+)
+
+[25-Aug-2025 09:58:55 Europe/Berlin] === NEW REQUEST ===
+[25-Aug-2025 09:58:55 Europe/Berlin] Request Method: POST
+[25-Aug-2025 09:58:55 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 17
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-28
+    [notes] => wow a wonderful breeding
+)
+
+[27-Aug-2025 00:40:44 Europe/Berlin] === NEW REQUEST ===
+[27-Aug-2025 00:40:44 Europe/Berlin] Request Method: POST
+[27-Aug-2025 00:40:44 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 17
+    [sire_id] => 16
+    [method] => Natural
+    [breeding_date] => 2025-08-27
+    [notes] => tttttttttttttt
+)
+
+[27-Aug-2025 00:41:37 Europe/Berlin] === NEW REQUEST ===
+[27-Aug-2025 00:41:37 Europe/Berlin] Request Method: POST
+[27-Aug-2025 00:41:37 Europe/Berlin] POST Data: Array
+(
+    [action] => create-pregnancy
+    [id] => 
+    [animal_id] => 17
+    [confirmed_date] => 2025-08-27
+    [due_date] => 2025-08-28
+    [notes] => gggghhhh
+)
+
+[27-Aug-2025 00:42:38 Europe/Berlin] === NEW REQUEST ===
+[27-Aug-2025 00:42:38 Europe/Berlin] Request Method: POST
+[27-Aug-2025 00:42:38 Europe/Berlin] POST Data: Array
+(
+    [action] => create-birth
+    [id] => 
+    [dam_id] => 17
+    [birth_date] => 2025-08-22
+    [offspring_count] => 3
+    [survival_status] => all survived
+    [notes] => yyyyyyy
+)
+
+[27-Aug-2025 00:52:35 Europe/Berlin] === NEW REQUEST ===
+[27-Aug-2025 00:52:35 Europe/Berlin] Request Method: POST
+[27-Aug-2025 00:52:35 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 1
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-25
+    [notes] => ccc
+)
+
+[27-Aug-2025 01:13:24 Europe/Berlin] === NEW REQUEST ===
+[27-Aug-2025 01:13:24 Europe/Berlin] Request Method: POST
+[27-Aug-2025 01:13:24 Europe/Berlin] POST Data: Array
+(
+    [action] => create-breeding
+    [id] => 
+    [animal_id] => 21
+    [sire_id] => 15
+    [method] => Natural
+    [breeding_date] => 2025-08-27
+    [notes] => THE 999 
+)
+
+[27-Aug-2025 01:15:16 Europe/Berlin] === NEW REQUEST ===
+[27-Aug-2025 01:15:16 Europe/Berlin] Request Method: POST
+[27-Aug-2025 01:15:16 Europe/Berlin] POST Data: Array
+(
+    [action] => create-pregnancy
+    [id] => 
+    [animal_id] => 21
+    [confirmed_date] => 2025-08-20
+    [due_date] => 2025-08-29
+    [notes] => 
+)
+

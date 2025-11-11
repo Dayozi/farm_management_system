@@ -1,0 +1,6 @@
+body { min-height: 100vh; }
+.card-title { font-weight: 600; }
+.navbar-brand { letter-spacing: 0.5px; }
+.list-group-item-action { cursor: pointer; }
+.table thead th { white-space: nowrap; }
+img.thumb { max-height: 80px; border-radius: 8px; }
